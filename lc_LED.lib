@@ -3,7 +3,7 @@ EESchema-LIBRARY Version 2.4
 #
 # 0805 »ÆµÆ
 #
-DEF 0805_»ÆµÆ D 0 40 N N 1 F N
+DEF 0805_yellow D 0 40 N N 1 F N
 F0 "D" -1 160 50 H V L BNN
 F1 "0805 »ÆµÆ" 49 260 50 H I L BNN
 F2 "lc_lib:0805_LED_S1" -1 -400 50 H I L BNN
@@ -29,7 +29,7 @@ ENDDEF
 #
 # 0805 À¶µÆ
 #
-DEF 0805_À¶µÆ D 0 40 N N 1 F N
+DEF 0805_blue D 0 40 N N 1 F N
 F0 "D" -1 160 50 H V L BNN
 F1 "0805 À¶µÆ" 49 260 50 H I L BNN
 F2 "lc_lib:0805_LED_S1" -1 -400 50 H I L BNN
@@ -55,7 +55,7 @@ ENDDEF
 #
 # 0805 ´äÂÌ
 #
-DEF 0805_´äÂÌ D 0 40 N N 1 F N
+DEF 0805_green D 0 40 N N 1 F N
 F0 "D" -1 160 50 H V L BNN
 F1 "0805 ´äÂÌ" 49 260 50 H I L BNN
 F2 "lc_lib:0805_LED_S1" -1 -400 50 H I L BNN
@@ -81,7 +81,7 @@ ENDDEF
 #
 # 0805 ºìµÆ
 #
-DEF 0805_ºìµÆ D 0 40 N N 1 F N
+DEF 0805_red D 0 40 N N 1 F N
 F0 "D" -1 160 50 H V L BNN
 F1 "0805 ºìµÆ" 49 260 50 H I L BNN
 F2 "lc_lib:0805_LED_S1" -1 -400 50 H I L BNN
@@ -107,7 +107,7 @@ ENDDEF
 #
 # 0805 °×µÆ
 #
-DEF 0805_°×µÆ D 0 40 N N 1 F N
+DEF 0805_white D 0 40 N N 1 F N
 F0 "D" -1 160 50 H V L BNN
 F1 "0805 °×µÆ" 49 260 50 H I L BNN
 F2 "lc_lib:0805_LED_S1" -1 -400 50 H I L BNN
@@ -133,7 +133,7 @@ ENDDEF
 #
 # 0603 »ÆµÆ
 #
-DEF 0603_»ÆµÆ D 0 40 N N 1 F N
+DEF 0603_yellow D 0 40 N N 1 F N
 F0 "D" -1 160 50 H V L BNN
 F1 "0603 »ÆµÆ" 49 260 50 H I L BNN
 F2 "lc_lib:0603_LED_S1" -1 -400 50 H I L BNN
@@ -159,7 +159,7 @@ ENDDEF
 #
 # 0603 À¶µÆ
 #
-DEF 0603_À¶µÆ D 0 40 N N 1 F N
+DEF 0603_blue D 0 40 N N 1 F N
 F0 "D" -1 160 50 H V L BNN
 F1 "0603 À¶µÆ" 49 260 50 H I L BNN
 F2 "lc_lib:0603_LED_S1" -1 -400 50 H I L BNN
@@ -185,7 +185,7 @@ ENDDEF
 #
 # 0603 ÂÌµÆ
 #
-DEF 0603_ÂÌµÆ D 0 40 N N 1 F N
+DEF 0603_green D 0 40 N N 1 F N
 F0 "D" -1 160 50 H V L BNN
 F1 "0603 ÂÌµÆ" 49 260 50 H I L BNN
 F2 "lc_lib:0603_LED_S1" -1 -400 50 H I L BNN
@@ -211,7 +211,7 @@ ENDDEF
 #
 # 0603 ºìµÆ
 #
-DEF 0603_ºìµÆ D 0 40 N N 1 F N
+DEF 0603_red D 0 40 N N 1 F N
 F0 "D" -1 160 50 H V L BNN
 F1 "0603 ºìµÆ" 49 260 50 H I L BNN
 F2 "lc_lib:0603_LED_S1" -1 -400 50 H I L BNN
@@ -237,7 +237,7 @@ ENDDEF
 #
 # 0603 °×µÆ
 #
-DEF 0603_°×µÆ D 0 40 N N 1 F N
+DEF 0603_white D 0 40 N N 1 F N
 F0 "D" -1 160 50 H V L BNN
 F1 "0603 °×µÆ" 49 260 50 H I L BNN
 F2 "lc_lib:0603_LED_S1" -1 -400 50 H I L BNN
